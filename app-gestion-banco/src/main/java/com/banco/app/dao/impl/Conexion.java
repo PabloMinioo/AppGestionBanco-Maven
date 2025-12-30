@@ -1,4 +1,4 @@
-package com.banco.app.dao;
+package com.banco.app.dao.impl;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

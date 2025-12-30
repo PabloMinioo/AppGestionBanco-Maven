@@ -1,7 +1,8 @@
 package com.banco.app.ui;
 
-import com.banco.app.dao.Conexion;
 import java.sql.Connection;
+
+import com.banco.app.dao.impl.Conexion;
 
 public class Main {
 
