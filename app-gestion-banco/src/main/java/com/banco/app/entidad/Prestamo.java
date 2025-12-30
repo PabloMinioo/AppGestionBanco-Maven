@@ -1,3 +1,5 @@
+package com.banco.app.entidad;
+
 import java.math.BigDecimal;
 import java.time.LocalDate;
 

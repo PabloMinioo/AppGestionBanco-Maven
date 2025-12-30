@@ -1,3 +1,5 @@
+package com.banco.app.entidad;
+
 import java.time.LocalDate;
 
 public class Cliente {

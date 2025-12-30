@@ -1,1 +1,12 @@
-D:\Cosas Compu\DevOps\AppGestionBanco-Maven\app-gestion-banco\src\main\java\com\banco\app\App.java
+D:\Cosas Compu\DevOps\AppGestionBanco-Maven\app-gestion-banco\src\main\java\com\banco\app\entidad\Provincia.java
+D:\Cosas Compu\DevOps\AppGestionBanco-Maven\app-gestion-banco\src\main\java\com\banco\app\entidad\Cuenta.java
+D:\Cosas Compu\DevOps\AppGestionBanco-Maven\app-gestion-banco\src\main\java\com\banco\app\ui\Main.java
+D:\Cosas Compu\DevOps\AppGestionBanco-Maven\app-gestion-banco\src\main\java\com\banco\app\entidad\TipoCuenta.java
+D:\Cosas Compu\DevOps\AppGestionBanco-Maven\app-gestion-banco\src\main\java\com\banco\app\entidad\Prestamo.java
+D:\Cosas Compu\DevOps\AppGestionBanco-Maven\app-gestion-banco\src\main\java\com\banco\app\entidad\Usuario.java
+D:\Cosas Compu\DevOps\AppGestionBanco-Maven\app-gestion-banco\src\main\java\com\banco\app\entidad\TipoMovimiento.java
+D:\Cosas Compu\DevOps\AppGestionBanco-Maven\app-gestion-banco\src\main\java\com\banco\app\entidad\Movimiento.java
+D:\Cosas Compu\DevOps\AppGestionBanco-Maven\app-gestion-banco\src\main\java\com\banco\app\entidad\Cuota.java
+D:\Cosas Compu\DevOps\AppGestionBanco-Maven\app-gestion-banco\src\main\java\com\banco\app\dao\Conexion.java
+D:\Cosas Compu\DevOps\AppGestionBanco-Maven\app-gestion-banco\src\main\java\com\banco\app\entidad\Cliente.java
+D:\Cosas Compu\DevOps\AppGestionBanco-Maven\app-gestion-banco\src\main\java\com\banco\app\entidad\Localidad.java

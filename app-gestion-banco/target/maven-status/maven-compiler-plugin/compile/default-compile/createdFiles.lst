@@ -1,1 +1,12 @@
-com\banco\app\App.class
+Prestamo.class
+Provincia.class
+TipoCuenta.class
+com\banco\app\ui\Main.class
+Cliente.class
+Usuario.class
+com\banco\app\dao\Conexion.class
+Movimiento.class
+Cuota.class
+Localidad.class
+TipoMovimiento.class
+Cuenta.class

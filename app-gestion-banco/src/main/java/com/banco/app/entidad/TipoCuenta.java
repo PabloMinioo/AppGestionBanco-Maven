@@ -1,3 +1,5 @@
+package com.banco.app.entidad;
+
 public class TipoCuenta {
     private int idTipoCuenta;
     private String descripcion;

@@ -1,3 +1,5 @@
+package com.banco.app.entidad;
+
 public class Localidad {
 
     private String idLocalidad;
