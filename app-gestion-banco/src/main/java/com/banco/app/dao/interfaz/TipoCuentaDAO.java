@@ -6,5 +6,5 @@ import java.util.List;
 
 public interface TipoCuentaDAO {
     List<TipoCuenta> obtenerTodosTiposCuentas();
-     TipoCuenta obtenerTipoCuentaPorID(int id);
+    TipoCuenta obtenerTipoCuentaPorID(int id);
 }
